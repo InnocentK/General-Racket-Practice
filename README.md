@@ -1,4 +1,6 @@
-EDIT THIS READMET TO INCLUDE YOUR NAME AND SECTION NUMBER!
+General Racket Practice
 
 Name: Innocent Kironji
 Section: 02
+
+See hw description file for more information
