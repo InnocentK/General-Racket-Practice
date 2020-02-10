@@ -1,2 +1,4 @@
-# General-Racket-Practice
-Various functions to test the unique capabilities of racket distribution of scheme
+EDIT THIS READMET TO INCLUDE YOUR NAME AND SECTION NUMBER!
+
+Name: Innocent Kironji
+Section: 02
